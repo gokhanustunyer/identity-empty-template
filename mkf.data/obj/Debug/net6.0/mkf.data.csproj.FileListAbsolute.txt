@@ -1,0 +1,17 @@
+C:\Users\gokha\OneDrive\Masaüstü\mkf\mkf.webui\mkf.data\bin\Debug\net6.0\mkf.data.deps.json
+C:\Users\gokha\OneDrive\Masaüstü\mkf\mkf.webui\mkf.data\bin\Debug\net6.0\mkf.data.dll
+C:\Users\gokha\OneDrive\Masaüstü\mkf\mkf.webui\mkf.data\bin\Debug\net6.0\mkf.data.pdb
+C:\Users\gokha\OneDrive\Masaüstü\mkf\mkf.webui\mkf.data\obj\Debug\net6.0\mkf.data.csproj.AssemblyReference.cache
+C:\Users\gokha\OneDrive\Masaüstü\mkf\mkf.webui\mkf.data\obj\Debug\net6.0\mkf.data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gokha\OneDrive\Masaüstü\mkf\mkf.webui\mkf.data\obj\Debug\net6.0\mkf.data.AssemblyInfoInputs.cache
+C:\Users\gokha\OneDrive\Masaüstü\mkf\mkf.webui\mkf.data\obj\Debug\net6.0\mkf.data.AssemblyInfo.cs
+C:\Users\gokha\OneDrive\Masaüstü\mkf\mkf.webui\mkf.data\obj\Debug\net6.0\mkf.data.csproj.CoreCompileInputs.cache
+C:\Users\gokha\OneDrive\Masaüstü\mkf\mkf.webui\mkf.data\obj\Debug\net6.0\mkf.data.dll
+C:\Users\gokha\OneDrive\Masaüstü\mkf\mkf.webui\mkf.data\obj\Debug\net6.0\refint\mkf.data.dll
+C:\Users\gokha\OneDrive\Masaüstü\mkf\mkf.webui\mkf.data\obj\Debug\net6.0\mkf.data.pdb
+C:\Users\gokha\OneDrive\Masaüstü\mkf\mkf.webui\mkf.data\obj\Debug\net6.0\ref\mkf.data.dll
+C:\Users\gokha\OneDrive\Masaüstü\mkf\mkf.webui\mkf.data\bin\Debug\net6.0\mkf.entity.dll
+C:\Users\gokha\OneDrive\Masaüstü\mkf\mkf.webui\mkf.data\bin\Debug\net6.0\mkf.entity.pdb
+C:\Users\gokha\OneDrive\Masaüstü\mkf\mkf.webui\mkf.data\obj\Debug\net6.0\mkf.data.csproj.CopyComplete
+C:\Users\gokha\OneDrive\Masaüstü\mkf\mkf.webui\mkf.data\bin\Debug\net6.0\mkf.data.runtimeconfig.json
+C:\Users\gokha\OneDrive\Masaüstü\mkf\mkf.webui\mkf.data\obj\Debug\net6.0\mkf.data.genruntimeconfig.cache

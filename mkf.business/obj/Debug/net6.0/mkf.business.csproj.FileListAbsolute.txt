@@ -1,0 +1,17 @@
+C:\Users\gokha\OneDrive\Masaüstü\mkf\mkf.webui\mkf.business\bin\Debug\net6.0\mkf.business.deps.json
+C:\Users\gokha\OneDrive\Masaüstü\mkf\mkf.webui\mkf.business\bin\Debug\net6.0\mkf.business.dll
+C:\Users\gokha\OneDrive\Masaüstü\mkf\mkf.webui\mkf.business\bin\Debug\net6.0\mkf.business.pdb
+C:\Users\gokha\OneDrive\Masaüstü\mkf\mkf.webui\mkf.business\bin\Debug\net6.0\mkf.data.dll
+C:\Users\gokha\OneDrive\Masaüstü\mkf\mkf.webui\mkf.business\bin\Debug\net6.0\mkf.data.pdb
+C:\Users\gokha\OneDrive\Masaüstü\mkf\mkf.webui\mkf.business\obj\Debug\net6.0\mkf.business.csproj.AssemblyReference.cache
+C:\Users\gokha\OneDrive\Masaüstü\mkf\mkf.webui\mkf.business\obj\Debug\net6.0\mkf.business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gokha\OneDrive\Masaüstü\mkf\mkf.webui\mkf.business\obj\Debug\net6.0\mkf.business.AssemblyInfoInputs.cache
+C:\Users\gokha\OneDrive\Masaüstü\mkf\mkf.webui\mkf.business\obj\Debug\net6.0\mkf.business.AssemblyInfo.cs
+C:\Users\gokha\OneDrive\Masaüstü\mkf\mkf.webui\mkf.business\obj\Debug\net6.0\mkf.business.csproj.CoreCompileInputs.cache
+C:\Users\gokha\OneDrive\Masaüstü\mkf\mkf.webui\mkf.business\obj\Debug\net6.0\mkf.business.csproj.CopyComplete
+C:\Users\gokha\OneDrive\Masaüstü\mkf\mkf.webui\mkf.business\obj\Debug\net6.0\mkf.business.dll
+C:\Users\gokha\OneDrive\Masaüstü\mkf\mkf.webui\mkf.business\obj\Debug\net6.0\refint\mkf.business.dll
+C:\Users\gokha\OneDrive\Masaüstü\mkf\mkf.webui\mkf.business\obj\Debug\net6.0\mkf.business.pdb
+C:\Users\gokha\OneDrive\Masaüstü\mkf\mkf.webui\mkf.business\obj\Debug\net6.0\ref\mkf.business.dll
+C:\Users\gokha\OneDrive\Masaüstü\mkf\mkf.webui\mkf.business\bin\Debug\net6.0\mkf.entity.dll
+C:\Users\gokha\OneDrive\Masaüstü\mkf\mkf.webui\mkf.business\bin\Debug\net6.0\mkf.entity.pdb

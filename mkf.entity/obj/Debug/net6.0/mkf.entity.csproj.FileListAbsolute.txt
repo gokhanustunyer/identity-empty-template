@@ -1,0 +1,12 @@
+C:\Users\gokha\OneDrive\Masaüstü\mkf\mkf.webui\mkf.entity\bin\Debug\net6.0\mkf.entity.deps.json
+C:\Users\gokha\OneDrive\Masaüstü\mkf\mkf.webui\mkf.entity\bin\Debug\net6.0\mkf.entity.dll
+C:\Users\gokha\OneDrive\Masaüstü\mkf\mkf.webui\mkf.entity\bin\Debug\net6.0\mkf.entity.pdb
+C:\Users\gokha\OneDrive\Masaüstü\mkf\mkf.webui\mkf.entity\obj\Debug\net6.0\mkf.entity.csproj.AssemblyReference.cache
+C:\Users\gokha\OneDrive\Masaüstü\mkf\mkf.webui\mkf.entity\obj\Debug\net6.0\mkf.entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gokha\OneDrive\Masaüstü\mkf\mkf.webui\mkf.entity\obj\Debug\net6.0\mkf.entity.AssemblyInfoInputs.cache
+C:\Users\gokha\OneDrive\Masaüstü\mkf\mkf.webui\mkf.entity\obj\Debug\net6.0\mkf.entity.AssemblyInfo.cs
+C:\Users\gokha\OneDrive\Masaüstü\mkf\mkf.webui\mkf.entity\obj\Debug\net6.0\mkf.entity.csproj.CoreCompileInputs.cache
+C:\Users\gokha\OneDrive\Masaüstü\mkf\mkf.webui\mkf.entity\obj\Debug\net6.0\mkf.entity.dll
+C:\Users\gokha\OneDrive\Masaüstü\mkf\mkf.webui\mkf.entity\obj\Debug\net6.0\refint\mkf.entity.dll
+C:\Users\gokha\OneDrive\Masaüstü\mkf\mkf.webui\mkf.entity\obj\Debug\net6.0\mkf.entity.pdb
+C:\Users\gokha\OneDrive\Masaüstü\mkf\mkf.webui\mkf.entity\obj\Debug\net6.0\ref\mkf.entity.dll
